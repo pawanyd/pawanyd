@@ -1,6 +1,6 @@
-## Hello, I'm [Pawan Kumar!](http://fudducoder.com) 👋
+## Hello, I'm [Pawan Kumar!](http://shivmahima.in) 👋
 
-- 🔭 I’m currently working on [Fudducoder](http://fudducoder.com/).
+- 🔭 I’m currently working on [Fudducoder](http://shivmahima.in/).
 - 🌱 I’m currently learning more about BlockChain.
 - 👯 I’m looking to collaborate on [Youtube]
 - 🤔 I’m looking for help with VelocityX documentation.
